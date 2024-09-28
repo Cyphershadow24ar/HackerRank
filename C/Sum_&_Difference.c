@@ -34,7 +34,6 @@ int main()
     
     printf("%d %d\n",sum1, min1);
     printf("%.1f %.1f\n",sum2, min2);
-   
-    
+
     return 0;
 }
