@@ -8,10 +8,12 @@
 # The above code will print Hello, World! on your screen. Try it yourself in the editor below!
 
 # NOTE: Method 1
+# solution:- 1
 if __name__ == '__main__':
     print("Hello, World!")
 
 #NOTE: Method 2
+# solution:- 2
 if __name__ == '__main__':
     my_string = ("Hello, World!")
     print(my_string)
