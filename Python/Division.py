@@ -14,6 +14,7 @@
 # 0
 # 0.6
 
+# solution:-
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
